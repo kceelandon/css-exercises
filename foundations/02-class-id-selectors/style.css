@@ -1,0 +1,16 @@
+.basic {
+  background-color: pink;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#first {
+  color: blue;
+  font-size: 36px;
+}
+.basic#cool {
+  font-size: 24px;
+}
+#second {
+  font-size: 24px;
+  background-color: lightgreen;
+  font-weight: bold;
+}
